@@ -1,2 +1,2 @@
 # computerNetworks
-computer networks
+computer networks for 2 year NSU
